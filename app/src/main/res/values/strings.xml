@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ANTI-NAB</string>
+
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="un_site"><a href="https://www.unhcr.org/">https://www.unhcr.org/</a></string>
+    <string name="irc_site"><a href="https://www.rescue.org/">https://www.rescue.org/</a></string>
+    <string name="ri_site"><a href="https://www.refugeesinternational.org/">https://www.refugeesinternational.org/</a></string>
+    <string name="chi_site"><a href="https://www.childhelplineinternational.org/">https://www.childhelplineinternational.org/</a></string>
+    <string name="unicef_site"><a href="https://www.unicef-irc.org/">"https://www.unicef-irc.org/</a></string>
+</resources>

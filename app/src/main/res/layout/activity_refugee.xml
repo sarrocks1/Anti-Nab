@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000"
+    tools:context=".RefugeeActivity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="24sp"
+        android:text="You have had to leave your country and thus have been through lot of troubles lately.But do not panic , good days lie ahead of you.\nWith more and more countries supporting refugees in their countries , you are sure to find a country that accepts you.\nWe have mentioned links to UN help center as well as other help centers for refugees.\n\n" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/un_site"
+        android:textSize="26sp"
+        android:linksClickable="true"
+        android:textColor="#fff"
+        android:autoLink="web"/>
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="26sp"
+        android:textColor="#fff"
+        android:linksClickable="true"
+        android:text="@string/irc_site"
+        android:autoLink="web"/>
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="26sp"
+        android:linksClickable="true"
+        android:textColor="#fff"
+        android:text="@string/ri_site"
+        android:autoLink="web"/>
+</LinearLayout>

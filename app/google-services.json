@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514439365458",
+    "firebase_url": "https://anti-nab.firebaseio.com",
+    "project_id": "anti-nab",
+    "storage_bucket": "anti-nab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514439365458:android:33933c6683ced8ee5d708b",
+        "android_client_info": {
+          "package_name": "com.example.anti_nab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514439365458-nk95vb6ulcc7g62g7fup3gq8po9jdkqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anti_nab",
+            "certificate_hash": "f0dfce4d5106d0b84899e1fd01da48037ab8cb55"
+          }
+        },
+        {
+          "client_id": "514439365458-085v41kr3kkvcr60gbgplki6pom9i92f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQAe4ygG1ThlykMs6jJshNPD8C5Gk8kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514439365458-085v41kr3kkvcr60gbgplki6pom9i92f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

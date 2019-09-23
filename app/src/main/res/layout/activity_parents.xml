@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#000"
+    android:layout_height="match_parent"
+    tools:context=".ParentsActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:textColor="#fff"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="Why do you want to run away? Is there a really good reason to run away, or are you just bored or tired with your situation? There's a difference between running away for a good reason (you're in physical danger) and running away for a bad reason (you just got in a small fight with your parents). Don't make a hasty decision in the heat of anger; you might regret it later.Think about all the people you might be affecting.Try talking to your parents and resolving it.\nIf you are genuinely facing troubles , contact below helplines -\n\n" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_weight="1"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:text="@string/chi_site" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:textColor="#fff"
+        android:textSize="22sp"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:layout_weight="1"
+        android:text="@string/unicef_site" />
+</LinearLayout>

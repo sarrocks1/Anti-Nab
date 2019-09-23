@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_height="match_parent"
+    tools:context=".MarriageActivity">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#fff"
+        android:text="Leaving your marriage is one of the hardest decisions you will make in life.  You have invested a lot in this relationship, and worked hard to save it, but you realize your conflicts are irreconcilable and you need to leave. There is no right way to depart, but there are ways to lessen the pain and anger involved in this difficult situation.\nTry talking with you partner to resolve the issue.If this fails try talking to your immediate family for support and experience.\nIf all of it fails , consider hiring a special lawyer and getting a divorce.\nRemember that life after a divorce might get harder , so go for it only if yu feel tht you can live your life happily with it." />
+</LinearLayout>
